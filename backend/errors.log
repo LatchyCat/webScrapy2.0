@@ -1,0 +1,1725 @@
+2024-11-14 22:40:34,449 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.449095",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "Noble Named\u00a0Carolina League\u2019s Visiting Clubhouse Manager of Year",
+      "subheadline": "",
+      "date": "November 12, 2024",
+      "content": "Noble Named\u00a0Carolina League\u2019s Visiting Clubhouse Manager of Year\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                November 12, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Minor League Baseball announced the winners of the Head Groundskeeper of the Year and Home and Visiting Clubhouse Manager of the Year Awards for each full-season league on Tuesday afternoon. Kevin Noble of the Charleston RiverDogs was selected as the Carolina League\u2019s Visiting Clubhouse Manager of the Year. Winners were \n \n \n Minor League Baseball announced the winners of the Head Groundskeeper of the Year and Home and Visiting Clubhouse Manager of the Year Awards for each full-season league on Tuesday afternoon. Kevin Noble of the Charleston RiverDogs was selected as the Carolina League\u2019s Visiting Clubhouse Manager of the Year. Winners were chosen using results of surveys filled out by managers, players and executives throughout the season.   \n \"As an organization, we take pride in providing a great experience at the ballpark. That experience extends beyond our fans and players to the players and coaches on the visiting side as well\", stated RiverDogs President and General Manager Dave Echols. \"Kevin was an important hire for us last season and we really appreciate his efforts in the visiting clubhouse. This honor is well-deserved.\"   \n The 2024 season was Noble\u2019s first with the RiverDogs. His career in professional baseball began as an operations intern with the Winston-Salem Dash in 2019. He was brought on the following season as the Visiting Clubhouse Manager, but the 2020 campaign was canceled due to the COVID-19 pandemic. Noble served in that role for two seasons when Minor League Baseball resumed play in 2021.   \n \u201cI am honored and humbled to receive this award from MiLB. When I took this position, I was determined to work hard every day and do the best job possible\u201d, Noble said. \u201cThere isn\u2019t a ton of glory involved in clubhouse work so to be chosen for this honor is really cool. John Horaz and Nick Chico on the home side, as well as the RiverDogs front office, deserve a share of this award as well for all their help day in and day out.\u201d   \n Noble grew up in Kinston, NC, where his love for Minor League Baseball was sparked by attending Kinston Indians games. He will receive an award from MiLB prior to a home game during the 2025 season. \u200b\u200b\u200b\u200b\u200b\u200b\u200b A printable version of the RiverDogs 2025 schedule is located  here . A date for tickets going on sale will be announced in the near future. Team merchandise is always available at the RiverDogs Team Store. The store's hours are Monday-Friday 10:00 a.m.-4:00 p.m. The Segra Club is also open for events year-round. Visit segraclub.com for more information. The brand new RiverDogs Food Truck is available for your next event! Contact the RiverDogs front office at 843-577-3647 (DOGS) for more information.",
+      "url": "https://www.milb.com/charleston/news/noble-named-carolina-league-s-visiting-clubhouse-manager-of-year",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/rsoxqteavd7e6so8qjcc",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:39:56.751377"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,451 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.450927",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "Charleston Tabbed as Fifth-Best Minor League Market in America by Sports Business Journal",
+      "subheadline": "",
+      "date": "October 21, 2024",
+      "content": "Charleston Tabbed as Fifth-Best Minor League Market in America by Sports Business Journal\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                October 21, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link",
+      "url": "https://www.milb.com/charleston/news/charleston-tabbed-as-fifth-best-minor-league-market-in-america-by-sports-business-journal",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/vjegvppbx419x7rryttt",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:39:58.293720"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,452 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.451971",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "RiverDogs to Host Donation Drop-Off for Communities Affected by Hurricane Helene",
+      "subheadline": "",
+      "date": "October 3, 2024",
+      "content": "RiverDogs to Host Donation Drop-Off for Communities Affected by Hurricane Helene\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                October 3, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n The Charleston RiverDogs have partnered with Firefly Distillery to provide assistance for those affected by Hurricane Helene in Augusta and Asheville, two communities that are home to fellow Minor League Baseball franchises. Joseph P. Riley, Jr. Park will serve as a drop-off location for donations beginning Friday morning until Wednesday, \n \n \n The Charleston RiverDogs have partnered with Firefly Distillery to provide assistance for those affected by Hurricane Helene in Augusta and Asheville, two communities that are home to fellow Minor League Baseball franchises. Joseph P. Riley, Jr. Park will serve as a drop-off location for donations beginning Friday morning until Wednesday, October 9.. The collected items will be picked up on October 10 and delivered to storm-affected communities via trucks coordinated by Firefly. \n The team will begin collecting donations on Friday in the VIP parking lot adjacent to the stadium. The drop-off site will be active from 9:00 a.m.-5:00 p.m. each day through October 9. A tent will be set up toward the back of lot with food and beverage staff serving coffee in the morning and hot dogs in the afternoon, while supplies last. \n \u201cOur organization has had the communities affected by the storm in our thoughts for the last several days. Anyone who has lived in Charleston for a considerable amount of time is aware of the difficulties that can persist after a storm of this magnitude,\u201d said RiverDogs President and General Manager Dave Echols. \u201cWe\u2019ve seen firsthand how impactful the Charleston community can be in times of need. This is a great opportunity to share that impact with our neighbors in the region during a time of need.\u201d \n The following list contains some of the suggested items for donation: \n \n Water \n Non-perishable snack items \n Disposable cutlery, plates, napkins \n Toiletries (Toilet paper, toothpaste, tooth brushes, cotton balls, face wash, soap, shampoo) \n Kids items (diapers, clothes, coloring books, kid-friendly snack foods) \n Batteries \n Canned food and can openers \n Fuel \n Charcoal \n Laundry detergent \n Dog food and cat food",
+      "url": "https://www.milb.com/charleston/news/riverdogs-partner-with-firefly-distillery-to-provide-hurricane-relief",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/keugw0oju8vuarp9yt3r",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:39:59.753088"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,453 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.453010",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "RiverDogs Season Ends in Extra Innings on Walk-Off Double by T.J. McCants",
+      "subheadline": "",
+      "date": "September 13, 2024",
+      "content": "RiverDogs Season Ends in Extra Innings on Walk-Off Double by T.J. McCants\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                September 13, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n The Kannapolis Cannon Ballers advanced to the Carolina League Championship Series with a walk-off 2-1 win over the Charleston RiverDogs in 11 innings on Friday night. The RiverDogs entered the inning with a 1-0 lead, but a throwing error allowed the Cannon Ballers to tie the game and T.J. McCants \n \n \n The Kannapolis Cannon Ballers advanced to the Carolina League Championship Series with a walk-off 2-1 win over the Charleston RiverDogs in 11 innings on Friday night. The RiverDogs entered the inning with a 1-0 lead, but a throwing error allowed the Cannon Ballers to tie the game and T.J. McCants followed with the game-winning RBI double. The RiverDogs run of championships ends at three. \n Neither team scored for the first 10 innings of contest as pitching dominated all night. In the top of the final frame, Enderson Delgado was placed at second base. Adrian Santana and Aidan Smith both struck out against Mark McLaughlin. With Delgado still at second, Emilien Pitre came through with an RBI single to left that gave the RiverDogs a 1-0 lead. \n Andy Rodriguez, who had already worked 2.0 scoreless innings came back out to try and close the game. With Sam Antonacci at second base, George Wolkow moved the runner to third with a right-side grounder. Rodriguez knocked down a comebacker in Alec Makarewicz\u2019s at-bat, but his throw to the plate sailed wide and allowed the tying run to score and the winning run to advance into scoring position. McCants took advantage with his game-winning line drive over the head of Jhon Diaz. \n Each team finished with six hits. Trevor Harrison was brilliant in his playoff debut, allowing just one hit over 5.0 strong innings. He struck out six. Hayden Snelsire followed with 3.0 scoreless innings out of the bullpen, surrendering just three hits of his own. Rodriguez was charged with two unearned runs and took the loss.",
+      "url": "https://www.milb.com/charleston/news/riverdogs-season-ends-in-extra-innings-on-walk-off-double-by-t-j-mccants",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/fq2r7o8acqy7zqk3v0hq",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:01.350745"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,454 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.453992",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "RiverDogs Force Game 3 with Comeback Win Thursday Night",
+      "subheadline": "",
+      "date": "September 12, 2024",
+      "content": "RiverDogs Force Game 3 with Comeback Win Thursday Night\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                September 12, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Enderson Delgado\u2019s pinch-hit single with two outs in the top of the seventh inning gave the Charleston RiverDogs a lead they would not relinquish in a 7-4 win over the Kannapolis Cannon Ballers on Thursday night. The contest was the second in the South Division Championship Series. The victory forces \n \n \n Enderson Delgado\u2019s pinch-hit single with two outs in the top of the seventh inning gave the Charleston RiverDogs a lead they would not relinquish in a 7-4 win over the Kannapolis Cannon Ballers on Thursday night. The contest was the second in the South Division Championship Series. The victory forces a winner-take-all Game 3 for a spot in the league\u2019s championship series on Friday night. \n Starting pitchers Santiago Suarez of the RiverDogs and Mason Moore of Kannapolis dueled over the first 3.0 innings of the game, each working out of several jams to keep the game scoreless. Kannapolis went to the pen in the fourth and Charleston finally broke through in the fifth against reliever Cartlon Perkins. The RiverDogs loaded the bases for the heart of their lineup with a single and two walks. Jhon Diaz then opened the scoring with a deep line drive to center field that worked as a sacrifice fly. Brady Marget followed with a line drive single to left that plated two more and increased the lead to 3-0. \n The lead was relatively short-lived. Suarez surrendered a pair of doubles in the bottom of that same inning. The second, provided by George Wolkow, put the Cannon Ballers first run of the game on the scoreboard. Suarez allowed nothing else, working 5.0 strong innings with nine strikeouts. \n T.J. Nichols was the first man to enter out of the Dogs bullpen. His outing began with an infield hit by Arxy Hernandez and a walk to Jackson Appel. He rebounded to strikeout Logan Drake, but that turned out to be the only out he would record. Jeral Perez singled to load the bases and Ryan Burrowes hammered a double to center field that tied the game 3-3. Gerlin Rosario entered with two in scoring position and allowed a single to Sam Antonacci that gave Kannapolis the lead on his first pitch. He would strike out the next two hitters to keep Charleston within one. \n In the top of the seventh, Frankeli Arias retired the first two batters of the frame without issue. The lefty suddenly lost his command and walked both Angel Mateo and Narciso Polanco. RiverDogs manager Sean Smedley pinch hit for J.D. Gonzalez with fellow catcher Delgado in that spot. The switch-hitter punched a line drive toward the gap in left center that scored two runs and put the Dogs in front 5-4. \n Charleston added a pair of insurance runs over the final two innings to reach the final score. Connor Hujsak lifted a sacrifice fly off Connery Peters in the eighth and Delgado came through again with an RBI triple in the ninth. \n Rosario earned the win by working 3.2 scoreless innings with two hits allowed. He struck out three. \n The RiverDogs were outhit 11-9 by the Cannon Ballers. Adrian Santana, Aidan Smith and Delgado each posted two hits for Charleston. Antonacci, Wolkow and Burrowes did the same for Kannapolis. \n The decisive third game of the series is set for Friday at 7:00 p.m. The RiverDogs have not announced their starter for the contest. Kannapolis will turn to RHP Jake Peppers.",
+      "url": "https://www.milb.com/charleston/news/riverdogs-force-game-3-with-comeback-win-thursday-night",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/degrptlon7ue9inelk5n",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:02.974088"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,455 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.454939",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "Cannon Ballers Hand RiverDogs 5-4 Defeat in Game 1 of South Division Championship Series",
+      "subheadline": "",
+      "date": "September 10, 2024",
+      "content": "Cannon Ballers Hand RiverDogs 5-4 Defeat in Game 1 of South Division Championship Series\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                September 10, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Sam Antonacci\u2019s RBI double in the top of the sixth inning helped the Kannapolis Cannon Ballers slip by the Charleston RiverDogs 5-4 in Game 1 of the South Division Championship Series on Tuesday night. A crowd of 4,012 took in the contest at Joseph P. Riley, Jr. Park. The RiverDogs \n \n \n Sam Antonacci\u2019s RBI double in the top of the sixth inning helped the Kannapolis Cannon Ballers slip by the Charleston RiverDogs 5-4 in Game 1 of the South Division Championship Series on Tuesday night. A crowd of 4,012 took in the contest at Joseph P. Riley, Jr. Park. The RiverDogs will need to win on Thursday and Friday in Kannapolis to advance to the league\u2019s title series. \n Kannapolis (1-0) settled in at the plate quickly to grab a first-inning lead. With one out, George Wolkow singled through the left side for the first hit of the game. T.J. McCants joined him on base with a two-out walk that extended the frame and moved a runner into scoring position. Ronny Hernandez paid that off by driving in the first run of the game with an RBI single to center. \n One swing of the bat allowed the RiverDogs (0-1) to take their first lead in the second inning. Jhon Diaz punched a single the other way into left against Tanner McDougal to begin the stanza. Brady Marget followed with a 399-foot line drive that carried over the wall in right center field for a two-run round-tripper. The first playoff blast for the Dogs gave them a 2-1 lead. \n A sacrifice fly from Arxy Hernandez in the top of the third tied the game, but Charleston jumped back in front in the bottom half. Emilien Pitre began the inning by taking a base on balls. Connor Hujsak followed with a base hit up the middle to put two on with no outs. Diaz gave the RiverDogs a 3-2 lead with a sharp double the other way. Despite having runners at second and third with no outs, the home team could not add on as McDougal struck out the next three. \n The escape by the righthander proved to be massive when his offense continued the momentum in the top of the next frame. A walk to Jackson Appel began the frame, and on the very next pitch Ryan Burrowes blasted a two-run home run to put the Cannon Ballers on top 4-3. The shortstop had just one home run in 77 regular season games. \n Once again, the RiverDogs found a way to erase that deficit, scoring a single run in the fifth. With two outs and nobody on base, Diaz extended the inning with a single to left. He stole second to get into scoring position and raced home on Marget\u2019s single through the left side as the score evened 4-4. \n Gary Gill Hill, the RiverDogs starter, departed after 3.1 innings, having allowed four runs, three of them earned. He struck out five and walked three while scattering six hits. Lefty Drew Dowd followed him out of the bullpen and struck out nine batters while working the final 5.2 innings. However, a pair of doubles in the sixth brought home the decisive run. The first put Jackson Appel into scoring position and the second, from Antonacci, dropped fair in shallow left field to make it 5-4. \n The RiverDogs mustered just two singles from that point forward, failing to score again. The Cannon Ballers outhit the RiverDogs 11-10 in victory. McCants posted three hits with Antonacci and Ronny Hernandez each collecting two. Marget went 2-4 with three runs batted in and Diaz led the way with three hits, including a double. \n Ballpark Fun \n As has become an annual tradition in Charleston during September, an energetic crowd packed the seats at The Joe for Game 1 of the playoffs. The first 1,000 fans into the ballpark received a free playoff t-shirt courtesy of Gildan. Fans were also offered $1 beers throughout the evening. \n The RiverDogs need to win on Thursday night in Kannapolis to keep their season alive. RHP Santiago Suarez (7-6, 4.11) will toe the rubber for the RiverDogs. He will be opposed by RHP Mason Moore (0-0, 19.29) of the Cannon Ballers. First pitch is set for 7:00 p.m.",
+      "url": "https://www.milb.com/charleston/news/cannon-ballers-hand-riverdogs-5-4-defeat-in-game-1-of-south-division-championship-series",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/vvvi9i3osvzmg5vnhhid",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:04.459490"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,456 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.455902",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "RiverDogs Close Regular Season with Third Straight Win",
+      "subheadline": "",
+      "date": "September 8, 2024",
+      "content": "RiverDogs Close Regular Season with Third Straight Win\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                September 8, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link",
+      "url": "https://www.milb.com/charleston/news/riverdogs-close-regular-season-with-third-straight-win",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/cgaezzlvayuuofcw9gea",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:05.965443"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,456 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.456648",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "RiverDogs Record Second Straight Shutout, Win 1-0 on 10th Inning Sacrifice Fly",
+      "subheadline": "",
+      "date": "September 7, 2024",
+      "content": "RiverDogs Record Second Straight Shutout, Win 1-0 on 10th Inning Sacrifice Fly\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                September 7, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Angel Mateo\u2019s sacrifice fly in the top of the 10th inning provided the only scoring in a 1-0 victory for the Charleston RiverDogs over the Columbia Fireflies on Saturday night at Segra Park. The shutout victory was the team\u2019s 15th of the season, the most in the Carolina League. The \n \n \n Angel Mateo\u2019s sacrifice fly in the top of the 10 th  inning provided the only scoring in a 1-0 victory for the Charleston RiverDogs over the Columbia Fireflies on Saturday night at Segra Park. The shutout victory was the team\u2019s 15 th  of the season, the most in the Carolina League. The Fireflies have not mustered a run over the last 20.0 innings of play. \n The game began as a stalemate, with neither offense able to generate an attack against the opposing starter. Trevor Harrison limited Columbia (33-32, 68-62) to just two hits over 5.0 scoreless innings in his final start of the regular season. Meanwhile, Jonatan Bernal of the Fireflies also kept a zero on the board over his 6.0 innings. He needed just two strikeouts to do it. \n Nothing changed against the bullpens through the first nine innings of the contest. T.J. Nichols came on in relief and allowed just one hit over 4.0 scoreless innings of his own. On the other hand, the RiverDogs (41-23, 68-61) had tallied only a single from Enderson Delgado through the first nine innings. \n The extra frame began with Adrian Santana at second base and the middle of the order at the plate. Aidan Smith lined a hot shot toward right field on the first pitch of the inning, but first baseman Callan Moss snatched it out of the air. Emilien Pitre put runners on the corners by beating out an infield single on a bouncer to short. In the next at-bat, Mateo lifted a fly ball to shallow left-center. Center fielder Erick Torres made the catch and fired toward the plate but was off target as Santana scored easily. \n Andy Rodriguez took over in the bottom of the 10 th  with the tying run at second base. The righthander induced soft contact from all three hitters to close the game in quick fashion and earn his second save. Rodriguez has worked 14.2 consecutive scoreless innings over his last eight appearances. \n LHP Jeremy Pilon (1-0, 1.64) is scheduled to work first for the RiverDogs in the final game of the regular season. Columbia will come back with Tuesday\u2019s starter, RHP Yunior Marte (0-0, 2.08) for his second outing of the series. First pitch is slated for 5:05 p.m.",
+      "url": "https://www.milb.com/charleston/news/riverdogs-record-second-straight-shutout-win-1-0-on-10th-inning-sacrifice-fly",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/a4ofh3yloi8bqufpoyt9",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:07.559915"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,457 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.457497",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "Hujsak Homers Three Times as RiverDogs Fall 7-6 in Columbia",
+      "subheadline": "",
+      "date": "September 5, 2024",
+      "content": "Hujsak Homers Three Times as RiverDogs Fall 7-6 in Columbia\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                September 5, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Connor Hujsak had a massive night at the plate, but it wasn\u2019t enough as the Charleston RiverDogs left the tying run at third in a 7-6 defeat at the hands of the Columbia Fireflies on Thursday at Segra Park. Hujsak blasted three home runs and drove in four in an \n \n \n Connor Hujsak had a massive night at the plate, but it wasn\u2019t enough as the Charleston RiverDogs left the tying run at third in a 7-6 defeat at the hands of the Columbia Fireflies on Thursday at Segra Park. Hujsak blasted three home runs and drove in four in an impressive display of power from the 13 th -round pick out of Mississippi State. The left fielder became the first RiverDogs player to hit three home runs in a game since Alexander Ovalles in 2021. Ironically, Ovalles\u2019s big game also came at Segra Park. \n The RiverDogs (39-23, 66-61) bounced back from being shutout on Wednesday with some immediate offense in the top of the first. Emilien Pitre extended the inning by working a two-out walk against Hiro Wyatt. Hujsak continued his big series by blasting a two-run home run to the opposite field to open the scoring with the Dogs on top 2-0. \n Columbia (33-30, 68-60) did not have a hit against Jose Urbina when the bottom of the fourth began. That changed with one out, as Derlin Figueroa crushed a 3-2 fastball over the right field wall for his third home run of the series. His 13 th  long ball of the season trimmed the Fireflies deficit to 2-1. Urbina worked a solid 5.0 innings and never allowed another run, striking out five. \n Hujsak\u2019s second long ball of the night, this one to right field in the sixth, pushed the Dogs lead back to a pair at 3-1. \n The RiverDogs still led by the same score when the bullpen took over in the sixth. Cade Halemanu retired the first batter he faced via strikeout, but did not record another out. The righthander walked Daniel Vazquez before Figueroa and Austin Charles single in consecutive at-bats to make it a one-run game. With the infield in, Hyungchan Um hit a chopper to first that was fielded by Jose Perez. He came home and the throw evaded catcher Enderson Delgado for an error that scored two more, putting Columbia in front 4-3. Alexander Alberto entered with the bases full and surrendered a sacrifice fly and a run-scoring wild pitch as the margin extended to 6-3. \n After the teams traded runs over the next two half-innings, Hujsak crushed his third and final home run to the concourse above the left field seats in the eighth to make it 7-5. The RiverDogs began the ninth inning with a walk by Carlos Colmenarez and a single from Perez. Gonzalez bunted both into scoring position for the top of the order. Charleston drew slightly closer with an RBI groundout by Adrian Santana, but Aidan Smith struck out with the tying run at third to end the game. \n Halemanu took the loss by allowing five runs on two hits and three walks in 0.1 innings. Alberto allowed one run in 1.2 innings. The only pitcher to go unscathed was Andy Rodriguez, who worked a scoreless eighth for his seventh consecutive scoreless appearance out of the bullpen. \n Hujsak finished 3-4 with three home runs and four RBI. Perez and Gonzalez each chipped in two hits of their own as the RiverDogs collected 10 as a team. Figueroa and Charles each had a pair of hits for Columbia. \n The final weekend of the 2024 campaign gets underway on Friday night with RHP Santiago Suarez (6-6, 4.30) on the bump. Columbia will hand the baseball to RHP Logan Martin (4-3, 3.80). First pitch is set for 7:05 p.m.",
+      "url": "https://www.milb.com/charleston/news/hujsak-homers-three-times-as-riverdogs-fall-7-6-in-columbia",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/aai5lxt3punbjhgqj6gg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:09.051261"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,458 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.458486",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "Figueroa Homers Twice as RiverDogs Suffer 7-0 Defeat",
+      "subheadline": "",
+      "date": "September 4, 2024",
+      "content": "Figueroa Homers Twice as RiverDogs Suffer 7-0 Defeat\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                September 4, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n The Charleston RiverDogs were held off the scoreboard for just the fifth time in the 2024 season, suffering a 7-0 loss to the Columbia Fireflies on Wednesday night at Segra Park. Three Columbia pitchers limited the RiverDogs to just two singles in the game.\n                        The RiverDogs (39-22, 66-60) were retired \n \n \n The Charleston RiverDogs were held off the scoreboard for just the fifth time in the 2024 season, suffering a 7-0 loss to the Columbia Fireflies on Wednesday night at Segra Park. Three Columbia pitchers limited the RiverDogs to just two singles in the game. \n The RiverDogs (39-22, 66-60) were retired in order in the top of the first inning and Columbia (32-30, 67-60) came out swinging in the bottom half. Gary Gill Hill walked Daniel Vazquez with one out and allowed a two-run home run to the next batter, Derlin Figueroa, as the Fireflies jumped in front 2-0. \n The second inning continued to be a struggle for the Dogs top hurler. Columbia began the frame with back-to-back singles and a walk to Colton Becker followed as the bases became full immediately. Another walk to Erick Torres forced in a run and made it 3-0. After retiring the next two hitters on shallow fly balls, a wild pitch skipped passed catcher J.D. Gonzalez and brought home a fourth run. \n Figueroa factored heavily to another crooked number in the Fireflies fourth as they began to pull away. Torres beat out an infield single to short to put a man on base early in the inning and force Gill Hill back into the stretch. Figueroa came to the plate with two outs and cranked his second home run of the night over the right field wall to push the lead to 6-0. Dionmy Salon\u2019s pinch-hit RBI groundout in the seventh drove in Austin Charles who had tripled in the previous at-bat. That gave Columbia a lead that matched the final score of 7-0. \n Gill Hill took the loss after allowing six runs on eight hits in 4.0 innings. That outing allowed teammate Drew Dowd to pass him for the best ERA in the league. Jonalbert Rumbol worked 2.0 scoreless innings out of the bullpen as he lowered his ERA to 3.69 on the campaign. Dalton Fowler allowed a run on four hits in 2.0 innings of his own. \n Figueroa matched the RiverDogs hit total in a 2-4 showing with a pair of round-trippers and four RBI. Charles paced all batters with three hits. Carter Frederick and Callan Moss each added a pair of knocks for the Fireflies in a 12-hit performance. \n The final series of the regular season continues Thursday night at 7:05 p.m. RHP Jose Urbina (0-0, 6.75) will take his turn in the rotation for the RiverDogs. Columbia will turn the baseball over to RHP Hiro Wyatt (2-1, 2.45).",
+      "url": "https://www.milb.com/charleston/news/figueroa-homers-twice-as-riverdogs-suffer-7-0-defeat",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/tezlsunihp8ukttsdhai",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:10.582720"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,459 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.459320",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "RiverDogs Sweep Doubleheader; Secure Fourth-Consecutive Trip to Postseason",
+      "subheadline": "",
+      "date": "September 3, 2024",
+      "content": "RiverDogs Sweep Doubleheader; Secure Fourth-Consecutive Trip to Postseason\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                September 3, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Connor Hujsak\u2019s two-run double in the bottom of the ninth sent the Charleston RiverDogs to a 3-2 win over the Columbia Fireflies and secured the team\u2019s trip to the playoffs on Tuesday at Columbia\u2019s Segra Park. That victory clinched the club\u2019s third South Division second half title in a row. \n \n \n Connor Hujsak\u2019s two-run double in the bottom of the ninth sent the Charleston RiverDogs to a 3-2 win over the Columbia Fireflies and secured the team\u2019s trip to the playoffs on Tuesday at Columbia\u2019s Segra Park. That victory clinched the club\u2019s third South Division second half title in a row. The RiverDogs followed with a 2-1 win in the nightcap to finish off a doubleheader sweep. The team has won eight straight games. \n The bottom of the ninth in the opening game began with the RiverDogs (39-21, 66-59) down 2-0. Fireflies reliever Elvis Novas had to deal with the top of the order and immediately walked Narciso Polanco to begin the frame. Adrian Santana fell behind 0-2 quickly but managed to dump a shallow fly ball into left field for a single. Jhon Diaz also poked a single to left and the Dogs had the bases loaded with no outs. A groundball to third from Angel Mateo resulted in a force out at the plate and brought Hujsak to the dish. After a lengthy battle, Novas left a breaking ball over the plate and the left fielder collected the decisive two-bagger. \n The contest was resumed from the point of suspension on July 14 in Charleston, when lightning and severe weather washed out the reminder of the contest. Columbia (31-30, 66-60) began with a 2-0 lead and runners on first and second in the top of the third. Hayden Snelsire took over on the mound and promptly walked the leadoff hitter to load the bases. The righthander rebounded to strike out Dionmy Salon and induced a pop up on the infield from Jhonny Perdomo to escape trouble. \n From that point forward, the Dogs bullpen dominated the remainder of the contest. Snelsire went a season-high 3.2 innings with three strikeouts. Luis Hernandez followed and went 3.0 perfect innings with three strikeouts of his own. That performance earned him the win. \n Hujsak finished the game, which was technically played two days before he was drafted by the Rays, 2-3 with a double and two runs batted in. He was the only player to register multiple hits in the game. \n In the nightcap, the Fireflies jumped in front during a discombobulated innings for Drew Dowd. After the leadoff hitter was retired, Carter Frederick reached on a throwing error by third baseman Carlos Colmenarez. An errant pickoff move from Dowd pushed the runner to second and a pair of walks loaded the bases. A wild pitch gave Columbia a 1-0 lead before Dowd issued another free pass to load the bases again. The inning closed with a fly ball to center from Erick Torres. Dowd was solid the rest of the way, earning the win with 5.0 innings and just one unearned run allowed. \n The Dogs entered the top of the fifth with a hit in every frame, but no runs to show for it. Ricardo Gonzalez opened the stanza with a sharp single up the middle and moved to second on a fielder\u2019s choice groundout by Narciso Polanco. Theo Gillen walked and Emilien Pitre was hit by a pitch to load the bases. Hujsak came up clutch again by ripping a two-run single through the left side to put the RiverDogs in front 2-1. \n Samuel Mejia earned his fourth save of the season by tossing 2.0 scoreless innings in the sixth and seventh. He did not allow a hit. Columbia finished the night with just one hit in the contest. \n Hujsak, Gonzalez and Colmenarez each closed the night with two hits for Charleston. \n The series resumes on Wednesday night at 7:05 p.m. RHP Jose Urbina (0-0, 6.75) is scheduled to be on the mound for the RiverDogs in game three. RHP Josh Hansell (3-2, 2.73) will counter for Columbia.",
+      "url": "https://www.milb.com/charleston/news/riverdogs-sweep-doubleheader-secure-fourth-consecutive-trip-to-postseason",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/fourkfdasuw3btnk9mb0",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:12.116177"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,460 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.460408",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "Dowd Earns Second Carolina League Pitcher of the Week Honor",
+      "subheadline": "",
+      "date": "September 2, 2024",
+      "content": "Dowd Earns Second Carolina League Pitcher of the Week Honor\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                September 2, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Charleston RiverDogs starting pitcher Drew Dowd has been named Carolina League Pitcher of the Week for the week of August 26-September 1, Minor League Baseball announced on Monday afternoon. Dowd also earned the award during the first week of July. The RiverDogs have had one of their starting pitchers claim \n \n \n Charleston RiverDogs starting pitcher Drew Dowd has been named Carolina League Pitcher of the Week for the week of August 26-September 1, Minor League Baseball announced on Monday afternoon. Dowd also earned the award during the first week of July. The RiverDogs have had one of their starting pitchers claim Pitcher of the Week honors four times this season. \n Working out of the bullpen on Tuesday night against Fayetteville, the southpaw tossed the final 7.0 innings of the game in a 7-1 victory for the RiverDogs. He did not allow a run, surrendering only one hit and one walk. He struck out a career-high eight batters on the way to helping the RiverDogs to their second series sweep of the campaign. \n Selected by the Tampa Bay Rays in the eighth round of the 2023 MLB Draft, Dowd has been a force throughout the season. He has compiled a 6-6 record and 2.98 earned run average in 21 appearances. Among Carolina League pitchers, he ranks second in ERA and innings pitched and fifth in opposing batting average and WHIP. \n Dowd is scheduled to pitch the second game of Tuesday\u2019s doubleheader in Columbia. The RiverDogs need just one victory in that seven-game set to clinch a fourth-consecutive playoff berth.",
+      "url": "https://www.milb.com/charleston/news/dowd-earns-second-carolina-league-pitcher-of-the-week-honor",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/v3yqzhg2dkrtqvd8fose",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:13.588429"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,461 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.461501",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "RiverDogs Overcome Slow Start at Plate in 3-2 Victory Saturday Night",
+      "subheadline": "",
+      "date": "August 31, 2024",
+      "content": "RiverDogs Overcome Slow Start at Plate in 3-2 Victory Saturday Night\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                August 31, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n The Charleston RiverDogs collected five hits on Saturday night in another close victory over the Fayetteville Woodpeckers and four of them never left the infield. The fifth, and final, hit was the decisive one as Angel Mateo dumped an RBI double into shallow center field to guide the Dogs to \n \n \n The Charleston RiverDogs collected five hits on Saturday night in another close victory over the Fayetteville Woodpeckers and four of them never left the infield. The fifth, and final, hit was the decisive one as Angel Mateo dumped an RBI double into shallow center field to guide the Dogs to a 3-2 win at Joseph P. Riley, Jr. Park. A crowd of 3,481 witnessed the home team earn their fifth straight win. \n Santiago Suarez gave up some hard contact in the top of the first inning as Fayetteville (23-33, 52-70) took a quick lead. With one out, Jancel Villaroel singled to left to start the attack. Two batters later, Caden Powell took a mighty cut at the first pitch of his at-bat and connected for a long two-run home run to left that started the scoring. The long ball was Powell\u2019s second of the year. \n For the first five innings of the contest, the RiverDogs (36-21, 63-59) were held without a hit. That changed when Adrian Santana put down a bunt single and advanced to third on a throwing error by Powell at third base in the sixth. Despite doing so with only one out, Santana was stranded at third. \n Small ball allowed Charleston to pull even in the seventh. Mateo began that rally with a soft line drive over the mound that turned into an infield single. Walks to Carlos Colmenarez and Jose Perez followed as the bases became loaded with one down. After a shallow fly ball to left off the bat of Ricardo Gonzalez failed to score a run, Narciso Polanco stepped in and rolled a groundball up the middle. Second baseman Drew Vogel made a diving attempt, and the ball glanced off the end of his glove as two runs scored. \n That set the stage for the eighth when the RiverDogs moved on top. With two outs, Enderson Delgado beat out an infield single and motored into scoring position when the play was compounded by a Powell throwing error at the hot corner. Mateo followed with a shallow fly ball to center that dropped among three Fayetteville defenders to hand the RiverDogs a lead at 3-2. \n Gerlin Rosario retired the side in order in the ninth to secure the win and complete an outing in which he retired all five batters he faced. Cade Halemanu also turned in 1.1 innings of scoreless work out of the bullpen. Suarez bounced back from the early home run to work 6.0 strong innings with two runs allowed on four hits. He struck out seven. The RiverDogs allowed just one hit after the top of the first inning. \n Mateo was the only player in the game with multiple hits, finishing 2-4 with a double. Polanco reached base three times. \n Ballpark Fun \n The RiverDogs kickstarted their mascot Charlie T. RiverDogs presidential candidacy during the game on Saturday evening. The first 1,000 fans to sign a petition nominating Charlie for President received a free t-shirt. \n The final home game of the regular season is set for Sunday evening at 5:05 p.m. as the RiverDogs set their sights on a sweep. LHP Jeremy Pilon (0-0, 1.29) will start on the mound for the RiverDogs with RHP Julio Marte (2-5, 6.65) working opposite him for Fayetteville. Parking is free and kids can run the bases after the game. The team will also be celebrating Charlie\u2019s birthday with mascots from around the Lowcountry.",
+      "url": "https://www.milb.com/charleston/news/riverdogs-overcome-slow-start-at-plate-in-3-2-victory-saturday-night",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/s0dsgovubnlbvjutzkn8",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:15.054951"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,462 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.462405",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "RiverDogs Take Big Step Toward Postseason with 4-3 Win on Friday",
+      "subheadline": "",
+      "date": "August 30, 2024",
+      "content": "RiverDogs Take Big Step Toward Postseason with 4-3 Win on Friday\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                August 30, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link",
+      "url": "https://www.milb.com/charleston/news/riverdogs-take-big-step-toward-postseason-with-4-3-win-on-friday",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/khzyc6zbqe95xe5nisju",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:16.581714"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,463 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.463188",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "Crooked Number in Eighth Lifts RiverDogs to Third Straight Victory",
+      "subheadline": "",
+      "date": "August 29, 2024",
+      "content": "Crooked Number in Eighth Lifts RiverDogs to Third Straight Victory\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                August 29, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Tied entering the bottom of the eighth inning, the Charleston RiverDogs scored three runs in the bottom of that frame to pull away from the Fayetteville Woodpeckers for a 6-3 win on Thursday night at Joseph P. Riley, Jr. Park. The victory was the team\u2019s third straight in the series \n \n \n Tied entering the bottom of the eighth inning, the Charleston RiverDogs scored three runs in the bottom of that frame to pull away from the Fayetteville Woodpeckers for a 6-3 win on Thursday night at Joseph P. Riley, Jr. Park. The victory was the team\u2019s third straight in the series and allowed them to take a 4.5 game lead over the Columbia Fireflies in the second half south division standings. The RiverDogs earned the victory in front of 3,915 fans. \n The game began as a pitcher\u2019s duel between the RiverDogs Gary Gill Hill and Yeriel Santos of the Woodpeckers. Each team entered the fifth inning with just one hit against the opposing starter. Fayeteville (23-32, 52-69) broke through first with help from a leadoff walk to Nehomar Ochoa Jr. in that inning. Cesar Hernandez worked the count full in the next at-bat and then lined a double to the gap. Drew Vogel followed with an RBI single that gave the Woodpeckers a 1-0 advantage. With runners on the corners, Will Bush bounced into a 4-6-3 double play as a second run crossed the plate. \n As they did on Wednesday night, the RiverDogs (34-21, 61-59) bounced back off the mat quickly. Brady Marget and Angel Mateo opened the inning with back-to-back singles to right field. A wild pitch from Santos advanced each runner 90 feet and allowed a sacrifice fly from Carlos Colmenarez to get the home team on the board. Jose Perez won a 10-pitch battle by lining a game-tying RBI single back up the middle in the next at-bat. Following a double from Adrian Santana, a sacrifice fly from Aidan Smith handed the RiverDogs a 3-2 lead. \n After a pair of scoreless innings, Fayetteville took advantage of some command issues for Dalton Fowler in the top of the eighth. The lefty walked leadoff hitter Max Holy to begin the frame, allowing the second baseman to steal second and third base on consecutive pitches. A wild pitch brought Holy in and evened the score 3-3. \n Charleston started the difference-making eight with a single to right by Smith. Emilien Pitre followed with a walk and runners were on first and second with nobody out. Jhon Diaz ripped an RBI single back through the middle to hand the RiverDogs the lead back. Two wild pitches from reliever Yanquiel Sanchez brought in a pair of insurance runs and padded the margin to 6-3. \n Andy Rodriguez retired the side in order in the ninth to earn the victory on the mound with 2.0 scoreless, hitless, frames. Hayden Snelsire worked 1.1 scoreless innings as the first man out of the bullpen to lower his ERA for the season to 2.54. Gill Hill departed after 4.2 innings, allowing two runs on four hits. \n Smith and Marget paced the RiverDogs attack with two hits each. For the third night in a row, the Fayetteville lineup did not feature a player with multiple hits. The Woodpeckers finished with five as a team. \n Ballpark Fun \n The RiverDogs played as the Boiled Peanuts for the final time this season on the last Budweiser\u2122 Thirsty Thursday of the campaign. Since 2018, the RiverDogs have suited up as the preferred salty snack of the Lowcountry several times each season. The 2024 season featured a new uniform design for the first time since the creation of the alternate identity. \n The series moves into the weekend on Friday night with game four set to get started at 7:05 p.m. The team will wear red on the field and encourage fans to do the same on a Boeing Redshirt Friday. The game worn jerseys will be auctioned off during the contest. The final REV Federal Credit Union fireworks show of the season will take place after the final out. RHP Trevor Harrison (1-0, 4.20) will start on the mound for the RiverDogs with RHP Luis Gonzalez (1-1, 2.89) countering for the Woodpeckers.",
+      "url": "https://www.milb.com/charleston/news/crooked-number-in-eighth-lifts-riverdogs-to-third-straight-victory",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/d3jqwpzwdsaxwr1dcve1",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:18.028802"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,464 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.464006",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "RiverDogs Put Playoff Tickets on Sale for Potential Home Games",
+      "subheadline": "",
+      "date": "August 29, 2024",
+      "content": "RiverDogs Put Playoff Tickets on Sale for Potential Home Games\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                August 29, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n The Charleston RiverDogs have held their closest pursuers in the Carolina League South Division playoff race at arm\u2019s length and put themselves in solid position to earn a fourth consecutive trip to the postseason. Fans can secure their seat for both potential home playoff games as the Single-A affiliate of \n \n \n The Charleston RiverDogs have held their closest pursuers in the Carolina League South Division playoff race at arm\u2019s length and put themselves in solid position to earn a fourth consecutive trip to the postseason. Fans can secure their seat for both potential home playoff games as the Single-A affiliate of the Tampa Bay Rays put postseason tickets on sale Thursday afternoon. The playoffs are presented by Nucor Steel Berkeley.   \n For the 2024 postseason, the RiverDogs are offering fans the opportunity to buy tickets for both potential home playoff games for the price of one. Purchasing a ticket for the playoff opener on September 10 will lock in the same seating location for game one of the league\u2019s championship series if the team advances to that stage. The RiverDogs Playoff Package is only valid through the start of the first playoff game. After the initial contest, remaining playoff tickets will be available at the standard rate.   \n Should the RiverDogs qualify, the September 10 playoff opener will feature $1 beers thanks to Budweiser. The first 1,000 fans will also receive a t-shirt courtesy of Gildan and Nucor Steel Berkeley.   \n \u201cThe team has once again completed an impressive turnaround in the second half and made the final games of the regular season very meaningful. We are hoping to be able to open the gates a few more times in September\", said President and General Manager Dave Echols. \"The playoff atmosphere created by our fans during the last three seasons has truly been second to none.\u201d   \n Should they qualify, the RiverDogs will host the Kannapolis Cannon ballers for game one of a best-of-three series to determine the South Division champion. Games two and, if necessary, three would be in Kannapolis on the 12th and 13th of September.   \n If the RiverDogs fall short of reaching the playoffs, a credit in the full amount of the purchase will be applied toward the 2025 season for those who bought playoff tickets. Those fans will also have an early window to purchase tickets prior to the general public for next season.   \n Please contact  [email\u00a0protected]  or call (843) 723-7241 with any questions.   \n The RiverDogs continue their hunt for a fourth-consecutive Carolina League championship in 2024. The full schedule of games is available here. Season tickets, Dog-E Coin plans, and group tickets, including options to the Segra Club at Riley Park, are available at riverdogs.com/tickets. For the lowest ticket prices, go directly to RiverDogs.com. The Segra Club is also open for events year-round. Visit segraclub.com for more information. The brand new RiverDogs Food Truck is available for your next event! Contact the RiverDogs front office at 843-577-3647 (DOGS) for more information.",
+      "url": "https://www.milb.com/charleston/news/riverdogs-put-playoff-tickets-on-sale-for-potential-home-games",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/belxrvwc7ovqhyueyvro",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:19.694393"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,464 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.464757",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "RiverDogs Shake Early Deficit, Double Up Woodpeckers 8-4",
+      "subheadline": "",
+      "date": "August 28, 2024",
+      "content": "RiverDogs Shake Early Deficit, Double Up Woodpeckers 8-4\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                August 28, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n The Charleston RiverDogs quickly erased a three-run deficit in the early innings on the way to an 8-4 victory over the Fayetteville Woodpeckers on Wednesday evening at Joseph P. Riley, Jr. Park. Big nights from Aidan Smith and Emilien Pitre guided the offense to a second straight impressive showing. A \n \n \n The Charleston RiverDogs quickly erased a three-run deficit in the early innings on the way to an 8-4 victory over the Fayetteville Woodpeckers on Wednesday evening at Joseph P. Riley, Jr. Park. Big nights from Aidan Smith and Emilien Pitre guided the offense to a second straight impressive showing. A crowd of 2,368 witnessed the contest. The RiverDogs remain 3.5 games ahead of Columbia in the south division playoff race. \n Charleston righthander Jose Urbina retired the first five batters he faced in the game but struggled to get the final out of the second inning. Jason Schiavone worked the count full before lining a double to the gap in right center to spark the two-out rally. Will Bush followed with a hard single to right to put a pair on base for Nehomar Ochoa Jr. After a visit to the mound, Urbina\u2019s first pitch to the right fielder was yanked over the left field wall for a three-run home run. His 10 th  long ball of the season gave Fayetteville (23-31, 52-68) a 3-0 head start. Urbina did not allow another run over his 4.0 innings of work. \n The RiverDogs (33-21, 60-59) bounced quickly despite facing the early hole. They loaded the bases with no outs in the bottom of the second on a hit by pitch, walk and single. Narciso Polanco took a bases loaded walk from Ramsey David to force in the first run of the game for the home team. Two batters later, Smith greeted new pitcher Danny Trehey with a two-run single to left. Despite another base hit in the frame, the RiverDogs left a pair on base and the score remained 3-3. \n Charleston took the lead for good in the fourth inning, which began with a double by Smith. A passed ball moved him to third and allowed him to score on a single to shallow left from Connor Hujsak as the Dogs took a 4-3 advantage. \n Smith opened the sixth inning with a double and came all the way around to score on an opposite field double by Pitre in the next at-bat. Later in the inning, Pitre crossed the plate via Angel Mateo\u2019s sacrifice fly to make it 6-3. \n Gerlin Rosario allowed one final Fayetteville run in the eighth inning via wild pitch. However, the offense reestablished a comfortable lead with Jhon Diaz\u2019s sacrifice fly and Mateo\u2019s RBI single in the bottom of the eighth. Those late insurance runs pushed the margin to the final score of 8-4. \n Smith was 3-4 with a double, two RBI and two runs scored. Pitre finished 3-3 with a double, one RBI and two runs scored. The six hits tallied by the Woodpeckers came off the bat of six different hitters. \n Luis Hernandez picked up the win on the mound by tossing 2.0 scoreless innings out of the bullpen. Alexander Alberto closed the game by retiring the side in order in the ninth. \n Ballpark Fun \n The RiverDogs hosted \u201cLess Likes, More Love\u201d Night alongside Snapchat on Wednesday night. The first 250 fans into the ballpark received a Snapchat rally towel as they entered the gates. \n The series will continue Thursday night with $1 beers available throughout the ballpark on a Budweiser\u2122 Thirsty Thursday. RHP Gary Gill Hill (4-3, 2.70) will make the start on the mound for the RiverDogs. Fayetteville will turn to RHP Yeriel Santos (5-5, 4.22) as they aim for their first win of the week.",
+      "url": "https://www.milb.com/charleston/news/riverdogs-shake-early-deficit-double-up-woodpeckers-8-4",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/vgy73f1vq1own82wrsxx",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:21.270430"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,465 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.465498",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "Dowd Dominates and Offense Impresses as RiverDogs Beat Fayetteville 7-1",
+      "subheadline": "",
+      "date": "August 27, 2024",
+      "content": "Dowd Dominates and Offense Impresses as RiverDogs Beat Fayetteville 7-1\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                August 27, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n The Charleston RiverDogs opened the second series of their 12-game homestand in dominant fashion, pounding the Fayetteville Woodpeckers by a 7-1 score on Tuesday at Joseph P. Riley, Jr. Park. The RiverDogs collected 13 hits and Drew Dowd worked 7.0 dominant innings out of the bullpen to increase the team\u2019s \n \n \n The Charleston RiverDogs opened the second series of their 12-game homestand in dominant fashion, pounding the Fayetteville Woodpeckers by a 7-1 score on Tuesday at Joseph P. Riley, Jr. Park. The RiverDogs collected 13 hits and Drew Dowd worked 7.0 dominant innings out of the bullpen to increase the team\u2019s south division lead to 3.5 games over Columbia. The game was played in front of 2,714 fans. \n The RiverDogs (32-21, 59-59) opened the second leg of a 12-game homestand by scoring a quick run. Adrian Santana opened the bottom of the first with a double into the right center gap. He stole third base and scored on Emilien Pitre\u2019s hard groundball that deflected off the pitcher and into the right field grass. Three batters into the game the home team had secured a 1-0 lead. \n The Woodpeckers (23-30, 52-67) bounced back to even the score in the top of the second. Caden Powell registered Fayetteville\u2019s first hit of the night by hooking a slider into the left field corner. With two outs, Drew Vogel drove him in with a hard single through the right side. That run was the only one allowed by T.J. Nichols in 2.0 innings of work coming off the injured list. \n Fayetteville registered just one hit over the remainder of the contest, with Dowd dominating the final 7.0 innings. He allowed just one hit and a walk, striking out a career-high eight batters along the way. He earned his sixth win of the season and lowered his ERA to 2.98. \n The score was not tied for long as first baseman Brady Marget blasted his first professional home run over the right field wall in the second inning to put the home team right back on top. Marget played a large role in extending the lead in the fourth inning, this time lining an RBI single into right with two outs to make it 3-1. \n The RiverDogs lead grew in the bottom of the sixth. Julio Marte walked Theo Gillen, hit Enderson Delgado and allowed a single to Marget to load the bases in the frame. Narciso Polanco lined a base hit back up the middle to extend the margin to 4-1 and then Santana beat out an infield single left of the mound to add one more. \n Charleston added a couple of insurance runs for good measure in their final at-bat. Marget was hit by a pitch to start the frame. He moved to second on an infield single from Adrian Santana before a fielder\u2019s choice left runners on the corners with one out. Pitre collected his third hit of the night with a double off the glove of left fielder Lucas Spence that scored two more runs and pushed the gap to the final score of 7-1. \n Santana collected a career-best four hits, including his fifth double in the last week. Marget and Pitre each closed the night with three hits and multiple RBI. Delgado\u2019s hitting streak came to an end at nine games. Three different Woodpeckers were responsible for one hit each. \n Ballpark Fun \n The RiverDogs hosted their final Dog Day Tuesday of the season in the opening game of the series. Bowls filled with cool water were placed around the ballpark for the four-legged fans in attendance and the night featured a parade of doodles around the concourse. Once again, Camp Bow Wow provided a puppy playground on Ashley View Pub for fans who brought their dog. \n The second game of the series is scheduled for Wednesday night at 7:05 p.m. RHP Jose Urbina (0-0, 6.75) will start on the mound for the RiverDogs with RHP Rafael Gonzalez (0-0, 6.75) countering for Fayetteville. Join us to celebrate \u201cLess Likes, More Love\u201d Night, featuring fun promotions, giveaways and unique lenses that only Snapchat can provide! Because the more love we share, the more love we feel.",
+      "url": "https://www.milb.com/charleston/news/dowd-dominates-and-offense-impresses-as-riverdogs-beat-fayetteville-7-1",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/gorw0ax6s3deqdwbiy8s",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:22.805081"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,466 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.466239",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "Red-Hot Smith Pushes Pelicans to Series-Closing 5-2 Win",
+      "subheadline": "",
+      "date": "August 25, 2024",
+      "content": "Red-Hot Smith Pushes Pelicans to Series-Closing 5-2 Win\u00a0\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                August 25, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Third baseman Cam Smith homered for a sixth straight game as the Myrtle Beach Pelicans knocked off the Charleston RiverDogs 5-2 in front of 3,746 fans on Sunday evening at Joseph P. Riley, Jr. Park. The Pelicans scored the final five runs of the game after facing an early deficit \n \n \n Third baseman Cam Smith homered for a sixth straight game as the Myrtle Beach Pelicans knocked off the Charleston RiverDogs 5-2 in front of 3,746 fans on Sunday evening at Joseph P. Riley, Jr. Park. The Pelicans scored the final five runs of the game after facing an early deficit to win the series. \n In a change of pace from the previous four games, the RiverDogs (31-21, 58-59) enjoyed a quick start to take the lead. Adrian Santana punched an opposite field single to start the attack and raced to third on a single by Aidan Smith. On that play, Smith was thrown out trying to advance to second base for the second out of the inning. Emilien Pitre and Connor Hujsak made sure the inning would not end quietly, producing consecutive RBI doubles to put the Dogs on top 2-0. \n Jeremy Pilon struggled with his command in the third inning as Myrtle Beach (25-24, 54-61) tallied for the first time. A leadoff walk to Drew Bowser was followed with a hustle double by Leonel Espinoza. Cam Smith won a long battle with Pilon, eventually lining a sacrifice fly to right that cut the Charleston lead in half. Pilon went 3.0 innings and allowed one run, issuing five walks while striking out six. \n The lead remained at 2-1 until the top of the sixth when Dalton Fowler took over on the mound. The lefthander\u2019s first pitch was crushed over the right field wall by Smith for a game-tying home run. The long ball was his sixth straight game with a blast. The inning continued with a walk to Alfonsin Rosario and a wild pitch that pushed him to second. Carter Trice banged an RBI double off the scoreboard on top of the left field wall as Myrtle Beach took a 3-2 lead. One more run scored on a safety squeeze bunt by Reggie Preciado before the inning closed. \n The Pelicans added one final run against Hayden Snelsire in the seventh. Espinoza doubled for the second time in the game to open the inning and was joined on base by Smith following an intentional walk. Alfonsin Rosario drove him in with an RBI single and the RiverDogs trailed 5-2. \n Charleston collected just one hit after the conclusion of the first inning. Santana led the offense with a 2-4 day that included a double. Myrtle Beach was guided by Espinoza\u2019s two hits and a pair of RBI from Smith. \n Andy Rodriguez and Jonalbert Rumbol were the two bullpen arms to emerge unscathed. Each righthander tossed 2.0 hitless innings. Fowler took the loss after surrendering three runs on three hits and walk in 0.1 innings. \n Ballpark Fun \n The crowd rose to their feet to give a standing ovation to the Bowing Military Family of the game as they were honored on the video board in between innings. For each of the last four seasons, the team has honored a local military member and their family with Segra Club tickets and a special experience at the game during each home date. \n Following an off day on Monday, the RiverDogs continue their longest homestand of the season with the first of six games against Fayetteville on Tuesday night at 7:05 p.m. LHP Drew Dowd (5-6, 3.19) is scheduled to start the opening game of the series with Fayetteville\u2019s starter yet to be announced. Fans are invited to bring their dog to the game on Twisted Tea Dog Day Tuesday.",
+      "url": "https://www.milb.com/charleston/news/red-hot-smith-pushes-pelicans-to-series-closing-5-2-win",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/zu0uq9dn9xgbakkhm8kg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:24.310112"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,467 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.467011",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "Pelicans Lead from Start to Finish in Saturday Victory over RiverDogs",
+      "subheadline": "",
+      "date": "August 24, 2024",
+      "content": "Pelicans Lead from Start to Finish in Saturday Victory over RiverDogs\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                August 24, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n The Myrtle Beach Pelicans scored two runs in the top of the first inning and never looked back, defeating the Charleson RiverDogs 4-1 on Saturday night at Joseph P. Riley, Jr. Park. The game was played in front of 4,772 fans. The RiverDogs lead in the south division playoff race \n \n \n The Myrtle Beach Pelicans scored two runs in the top of the first inning and never looked back, defeating the Charleson RiverDogs 4-1 on Saturday night at Joseph P. Riley, Jr. Park. The game was played in front of 4,772 fans. The RiverDogs lead in the south division playoff race was cut to 3.0 games over the Columbia Fireflies. \n Myrtle Beach (24-24, 53-61) continued their theme of jumping ahead early in games. Ivan Brethowr was hit by a Santiago Suarez fastball to become the first baserunner to reach base and Alfonsin Rosario joined him with an infield hit later in the frame. That brought Jose Escobar to the plate, where he continued his domination of Charleston pitching with a two-run triple to dead center. \n The Pelicans lead grew to 3-0 in the second. Owen Ayers opened that stanza with a double and later scored on an RBI single from Leonel Espinoza. Suarez ended his night after 5.0 innings, allowing three runs on six hits. \n The final run for the visitors was put on the board by designated Cam Smith. The 14 th  overall selection in this year\u2019s MLB Draft blasted a home run for the fifth straight game to make it 4-0. That blast set a new Myrtle Beach franchise record for consecutive games with a long ball. \n The RiverDogs (31-20, 58-58) were on the verge of being shut out when the ninth began. However, the home team had other ideas, starting with a leadoff double to the right field corner from Adrian Santana. Following a line drive out from Aidan Smith, Jhon Diaz singled to right to put Charleston on the board. A single in the next at-bat from Enderson Delgado brought the tying run to the plate with just one out. Shane Marshall reset after a mound visit to retire Brady Marget on a line drive to second and Angel Mateo on a bouncer to short. \n Delgado\u2019s late hit pushed his hit streak to nine games, matching the longest such streak compiled by a RiverDogs player this season. Santana had a big night at the plate, going 3-4 with a pair of doubles. Myrtle Beach received two hits each from Ayers and Carter Trice. Escobar finished with two RBI, raising his total to 11 in the last four games. \n Samuel Mejia allowed one run while striking out four in 2.0 innings out of the bullpen. Cade Halemanu finished the night by working 2.0 scoreless innings. \n Ballpark Fun \n The RiverDogs wore special purple uniforms that featured popular references to the famous sitcom \u201cFriends\u201d on Saturday evening. The uniforms are available to fans via online auction with the proceeds benefiting the MUSC Health Shawn Jenkins Children\u2019s Hospital. Scenes from the show played on the video board throughout the game and fans were challenged to answer Friends-related Trivia. \n The series will wrap up on Sunday evening at 5:05 p.m. with free parking and kids being welcomed to the field to run the bases after the game. LHP Jeremy Pilon (0-0, 0.00) will be making his debut at The Joe of a stellar performance in Kannapolis last week. Meanwhile, RHP JP Wheat (0-0, 6.32) will toe the rubber for Myrtle Beach.",
+      "url": "https://www.milb.com/charleston/news/pelicans-lead-from-start-to-finish-in-saturday-victory-over-riverdogs",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/a9hdnseqf6huqdqkt7g3",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:25.781895"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,467 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.467708",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "Early Offense Guides Pelicans to 6-2 Victory over Dogs",
+      "subheadline": "",
+      "date": "August 22, 2024",
+      "content": "Early Offense Guides Pelicans to 6-2 Victory over Dogs\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                August 22, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n The Myrtle Beach Pelicans jumped out to a five-run lead for the second night in a row, holding firm for a 6-2 win over the Charleston RiverDogs on Thursday evening. A crowd of 4,819 enjoyed the ballgame at Joseph P. Riley, Jr. Park.\n                        For the second straight contest, Myrtle Beach \n \n \n The Myrtle Beach Pelicans jumped out to a five-run lead for the second night in a row, holding firm for a 6-2 win over the Charleston RiverDogs on Thursday evening. A crowd of 4,819 enjoyed the ballgame at Joseph P. Riley, Jr. Park. \n For the second straight contest, Myrtle Beach (23-23, 52-60) hung a crooked number on the RiverDogs starting pitcher in the first inning. This time, the damage came against Gary Gill Hill. Carlos Colmenarez committed a throwing error on a bouncer toward second by Ivan Brethowr. That miscue opened the door for a big inning as the next two hitters followed with groundball singles. Gill Hill went to a full count in Jose Escobar\u2019s at-bat with the bases loaded and surrendered a bases clearing double to the gap that staked the Pelicans to a 3-0 lead. \n In the third inning, Cubs first-round pick Cam Smith added to the lead with his third home run of the last three games. This time he went the other way with a two-run blast that made it 5-0. Gill Hill surrendered five runs, four of them earned, over 5.0 innings on the hill. \n The RiverDogs (30-19, 57-57) put their first run on the board in the bottom of the third. Ricardo Gonzalez led off with a base hit back through the middle and advanced to third on another base hit by Emilien Pitre. Aidan Smith\u2019s sacrifice fly scored Gonzalez and trimmed the deficit to four. \n Charleston edged slightly closer in the sixth, when Connor Hujsak walked and Enderson Delgado moved him to third with a base hit. A fielder\u2019s choice groundout by Angel Mateo drove in a run and brought the Dogs within 5-2. The Dogs mustered just one more hit over the final three innings. \n Myrtle Beach added one more to the lead for good measure in the top of the ninth against Jonalbert Rumbol. Owen Ayers singled, Miguel Pabon doubled and Christian Olivo brought in a run with a fielder\u2019s choice groundball back to the mound. \n Dalton Fowler was impressive in relief for the RiverDogs, retiring all six batters that he faced in 2.0 perfect innings. \n The offense\u2019s eight-hit effort was paced by two hits each from Pitre and Gonzalez. Delgado extended his hitting streak to eight games in the defeat. Meanwhile, Cam Smith led Myrtle Beach with a 3-4 day and two RBI. \n Ballpark Fun \n The RiverDogs hosted the first Budweiser\u2122 Thirsty Thursday since students returned to town. The largest crowd of the week enjoyed $1 beers and music from DJ Dolla Menu on the Ashley View Pub. \n The fourth game of the series is slated for Friday night. RHP Trevor Harrison (1-0, 3.46) will toe the rubber first for the RiverDogs. Opposite him for Myrtle Beach will be RHP Nazier Mule (1-1, 3.27). The game will be followed by REV Federal Credit Union Fireworks.",
+      "url": "https://www.milb.com/charleston/news/early-offense-guides-pelicans-to-6-2-victory-over-dogs",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/xic7dhxcs7gdq0myi0ja",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:27.350878"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,468 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.468558",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "Ninth Inning Errors Too Much to Overcome for RiverDogs on Wednesday",
+      "subheadline": "",
+      "date": "August 21, 2024",
+      "content": "Ninth Inning Errors Too Much to Overcome for RiverDogs on Wednesday\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                August 21, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Two errors in the top of the ninth inning hurt the Charleston RiverDogs in an 8-6 loss to the Myrtle Beach Pelicans on Wednesday night at Joseph P. Riley, Jr. Park. The RiverDogs fell behind 5-0 in the early going and battled back to take a brief lead in the \n \n \n Two errors in the top of the ninth inning hurt the Charleston RiverDogs in an 8-6 loss to the Myrtle Beach Pelicans on Wednesday night at Joseph P. Riley, Jr. Park. The RiverDogs fell behind 5-0 in the early going and battled back to take a brief lead in the seventh inning before succumbing late in front of 2,364 fans. The RiverDogs lead over Columbia in the south division standings was trimmed to 3.0 games. \n The ninth inning began with the score tied 6-6. Owen Ayers poked a soft groundball toward third for an infield single and advanced to second on a throwing error by Carlos Colmenarez. A walk of Drew Bowser followed, and Dilan Granadillo put down a sacrifice bunt to advance runners to second and third. With the infield in, Christian Olivo grounded toward second and the throw to the plate was too late to nab the lead runner at the plate as Myrtle Beach (22-23, 51-60) took the lead. Another run scored when Adrian Santana dropped a pop up in shallow left field, allowing Bowser to trot home. \n The damage came against reliever Luis Hernandez who took his first loss of the season after allowing three runs, two earned, over 1.1 innings. The RiverDogs (30-18, 57-56) put runners in scoring position with two outs in the bottom of the ninth, but Jhon Diaz struck out looking to end the game. \n The Pelicans (22-23, 51-60) wasted no time jumping on RiverDogs starter Jose Urbina in the first inning. The young righthander hit Leonel Espinoza with the second pitch of the game and Ivan Brethowr followed with a single to put men on the corners. Myrtle Beach grabbed the lead when Cam Smith rolled an RBI single back through the middle. Alfonsin Rosario hammered a double into the gap in right center for a 2-0 lead and Jose Escobar blasted a two-run home run in the next at-bat to make it 4-0 right out of the gate. \n Urbina was looking for a bounce back inning in the second and induced a double play groundball to assist that cause. However, Espinoza hit a fly ball into the jet stream blowing out to right field and connected or his fourth home run of the campaign. \n The RiverDogs (30-18, 57-56) had baserunners early in the game but failed to cash in until the third. In that frame, Smith committed an error on Emilien Pitre\u2019s groundball to open the frame. The next three hitters took advantage with consecutive doubles. Santana\u2019s ground-rule double was the first of the sequence and put two in scoring position. Aidan Smith followed with another two-bagger that put the Dogs on the board and cut the deficit to 5-2. Connor Hujsak\u2019s double deep in the left field corner cut into the Pelicans lead even further by making it 5-3. \n The first pitch thrown by Myrtle Beach reliever Luis Rujano in the sixth inning was blasted off the batter\u2019s eye in dead center by Diaz for his ninth home run of the season. Later in the same inning, Colmenarez tied the game with a sacrifice fly. \n Smith almost single-handedly put the RiverDogs in front by creating a run in the bottom of seventh. The right fielder opened the stanza with a base hit and promptly stole both second and third. He scored on a tapper back toward the mound by Diaz as the RiverDogs moved in front for the first time at 6-5. The lead was short-lived with Cam Smith tying the game via a solo home run in the top of the eighth. \n Urbina was tagged for five runs in 4.0 innings in his home debut with the RiverDogs. Hayden Snelsire lowered his ERA to 2.50 on the season with 3.0 scoreless innings out of the bullpen. \n Eight of the nine players in the lineup for the RiverDogs finished with at least one hit, including three from Hujsak. Aidan Smith was 2-4 with two RBI and a pair of stolen bases. Cam Smith tallied two hits and two RBI for Myrtle Beach. \n Ballpark Fun \n Fans lined up early outside the front gates to receive a bobblehead version of slugger Xavier Isaac, one of the top prospects in Minor League Baseball and a member of the RiverDogs 2023 championship team. The bobblehead giveaway completed a set of three that also included bobbleheads of Curtis Mead and Carson Williams. \n The series resumes on a Budweiser\u2122 Thirsty Thursday at 7:05 p.m. RHP Gary Gill Hill (4-3, 2.46) will take his turn in the rotation for the RiverDogs against Myrtle Beach RHP Juan Bello (3-4, 2.62).",
+      "url": "https://www.milb.com/charleston/news/ninth-inning-errors-too-much-to-overcome-for-riverdogs-on-wednesday",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/gwduozono9p26vqlll5t",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:28.915882"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,469 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.469379",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "RiverDogs Score Early and Often on Way to Convincing 8-3 Win over Pelicans",
+      "subheadline": "",
+      "date": "August 20, 2024",
+      "content": "RiverDogs Score Early and Often on Way to Convincing 8-3 Win over Pelicans\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                August 20, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n The Charleston RiverDogs scored in six different innings to open a 12-game homestand with an 8-3 win over the Myrtle Beach Pelicans on Tuesday night at Joseph P. Riley, Jr. Park. All nine RiverDogs in the starting lineup either reached base safely or collected an RBI in the victory. The \n \n \n The Charleston RiverDogs scored in six different innings to open a 12-game homestand with an 8-3 win over the Myrtle Beach Pelicans on Tuesday night at Joseph P. Riley, Jr. Park. All nine RiverDogs in the starting lineup either reached base safely or collected an RBI in the victory. The game was played in front of a crowd of 2,609. \n Charleston (30-17, 57-55) opened the scoring in the second inning against Yenrri Rojas. Connor Hujsak singled to center and stole second base to move into scoring position. He tagged and moved to third on a deep fly ball off the bat of Jhon Diaz and scored on Narciso Polanco\u2019s chopper to short. \n A balk by Rojas with two outs and a runner at third in the next inning doubled the home team\u2019s advantage. In the fourth, the lead swelled to 4-0 as Diaz singled home one run and then scored from third on another balk by the Pelicans starter. \n Jose Perez dropped an RBI groundball double over the right field wall to add another run in the sixth. One inning later, a sacrifice fly off the bat of Diaz pushed the margin to 6-0. \n The Pelicans (21-23, 50-60) appeared to be in danger of coming up empty offensively when the eighth inning began with Cade Halemanu on the mound. Leonel Espinoza started the frame with a single and was joined on base when Ivan Brethowr worked a walk. Cubs first-round draft pick Cam Smith ended the RiverDogs shutout bid with a monster three-run home run to pull Myrtle Beach within three. \n However, the RiverDogs went right back to work extending the lead in the bottom of the same inning. Enderson Delgado began the inning with a single and raced all the way to third on an ensuing error by the right fielder Brethowr. Angel Mateo drove him in with a double toward the left field corner to make it 7-3. One final run was added on an RBI groundout by Emilien Pitre. \n Drew Dowd tossed 5.0 scoreless innings to earn his fifth win of the campaign. He lowered his ERA to 3.19 on the season by striking out six and limiting the Pelicans to a pair of hits. Andy Rodriguez followed with 2.0 scoreless innings out of the pen. In the ninth, Alexander Alberto dealt a scoreless inning to close the door. \n The RiverDogs outhit the Pelicans 7-5 for the night, led my Mateo\u2019s 2-3 evening featuring two doubles. The long ball by Cam Smith was his first professional home run. The RiverDogs stole seven bases in the contest without being caught. \n Ballpark Fun \n The RiverDogs kicked off a 12-game homestand with plenty of pups in the ballpark and their last time playing as Los Perros Santos this season. The alternate jerseys are worn as part of Minor League Baseball\u2019s Copa de la Diversion initiative celebrating the Hispanic culture in the area. The RiverDogs sold custom hot dogs created by Latin American players earlier in the season. \n Game two of the series is scheduled for Wednesday night at 7:05 p.m. The first 1,000 fans into the ballpark will receive an Xavier Isaac bobblehead as part of a three-piece championship collection. RHP Jose Urbina (0-0, 2.25) makes his home debut on the mound after an impressive outing in Kannapolis last week. RHP Tyler Schlaffer (2-1, 2.41) will work opposite him for the Pelicans.",
+      "url": "https://www.milb.com/charleston/news/riverdogs-score-early-and-often-on-way-to-convincing-8-3-win-over-pelicans",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/tervezjwlnsofvgrnryn",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:30.401920"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,470 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.470201",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "Walk-Off Road Win Finishes Doubleheader Sweep on Sunday",
+      "subheadline": "",
+      "date": "August 18, 2024",
+      "content": "Walk-Off Road Win Finishes Doubleheader Sweep on Sunday\n                                 \n Charleston finished the seven-game series with a 5-2 record and moved over the .500 mark \n \n \n \n \n \n \n \n \n \n \n \n \n                                                        By\n                                                     \n                                                            Charleston RiverDogs\n                            \n                                                 \n \n \n                                                August 18, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Carlos Colmenarez slid home safely on a close play at the plate to give the Charleston RiverDogs a 5-4 extra-inning win over the Kannapolis Cannon Ballers in the second game of a doubleheader on Sunday at Atrium Health Ballpark. The RiverDogs also won the first game 4-2, securing a sweep \n \n \n Carlos Colmenarez slid home safely on a close play at the plate to give the Charleston RiverDogs a 5-4 extra-inning win over the Kannapolis Cannon Ballers in the second game of a doubleheader on Sunday at Atrium Health Ballpark. The RiverDogs also won the first game 4-2, securing a sweep of the twin bill on the road. Charleston finished the seven-game series with a 5-2 record and moved over the .500 mark on the season for the first time since they were 6-5. \n In the first contest, the RiverDogs (29-17, 56-55) jumped in front 2-0 for the second straight game. With one out, Adrian Santana yanked a double down the first base line. He scored moments later when Aiden Smith dumped a base hit into shallow right field. Smith advanced to second on an error by the right fielder on the same play, allowing him to score on Narciso Polanco\u2019s RBI single to make it 2-0. The final two hitters of the inning struck out with the bases loaded as the Dogs failed to add on. \n Lefthander Jeremy Pilon was dominant on the mound in his RiverDogs debut, holding Kannapolis (19-29, 60-54) scoreless for 4.0 innings. The 18-year-old struck out eight and allowed just three hits. \n A big insurance run came across in the top of the fifth. Smith began the inning by working a free pass and stole second in short order. Enderson Delgado followed with a base hit and then collected his first stolen base of the season to put men on second and third with no outs. The next two hitters, Polanco and Angel Mateo struck out swinging to give reliever Hale Sims a potential escape. However, he spiked a breaking ball to the backstop and Smith raced home for a 3-0 lead. \n The visitors added one more run in the seventh. Smith singled with one out and stole second base once again. A wild pitch allowed him to advance to third and he beat the throw home on Polanco\u2019s fielder\u2019s choice bouncer to first with a great slide to make it 4-0. \n Seth Chavez worked 2.2 perfect innings out of the bullpen and had the RiverDogs within one out of a shutout when he walked Lyle Miller-Green. Luis Pineda followed with a two-run home run and the Cannon Ballers had their only runs of the day. \n Smith finished 2-3 with two stolen bases, a walk and two runs scored to spark the Charleston attack. Polanco was 2-4 with two RBI and Santana also collected two knocks. Kannapolis mustered just four hits, one each from four players. \n Kannapolis was the team that jumped in front early on in game two. Alex Makarewicz drove his first professional home run just over the right field wall in the second inning to give the home team a 1-0 lead. \n The RiverDogs grabbed their own lead in the bottom of the third, serving as the home team in a game that was originally scheduled for Charleston last month. Ricardo Gonzalez worked a walk to start the inning and moved to third on a double by Polanco. Jhon Diaz and Connor Hujsak followed with consecutive RBI singles as the Dogs jumped ahead 2-1. \n Before Gerlin Rosario departed, the Cannon Ballers were able to scratch across the tying run. Jeral Perez doubled on an 0-2 breaking ball and scored shortly thereafter on George Wolkow\u2019s single to right. Rosario, making his first start since 2022, allowed two runs on three hits and struck out three. \n Neither team scored again until extras, with Kannapolis moving in front in the eighth on an RBI double from Ryan Burrowes. Delgado tied the game by lining a double over the right fielder\u2019s head on the first pitch in the bottom of the inning. He was thrown out trying to stretch it into a triple and the RiverDogs could not score again. \n In the ninth, Samuel Mejia retired the first two batters, but a pair of wild pitches allowed Wolkow to score and hand the home team a 4-3 lead. In the bottom of the inning, Colmenarez hit a bouncer up the middle that was fielded by Perez. The shortstop tried to cut down the lead runner, but his throw caromed off Angel Mateo and bounced away, allowing him to score and the winning run to move to second. A sacrifice bunt by Jose Perez moved the winning run to third and set the stage for Gonzalez\u2019s heroics. \n The RiverDogs will open a two-week homestand on Tuesday night with the first of six against the Myrtle Beach Pelicans. Bring your dog with you to the ballpark on a Twisted Tea Dog Day Tuesday! \n \n \n                                                            Read More:\n                                                 \n \n \n Jeremy Pilon",
+      "url": "https://www.milb.com/charleston/news/walk-off-road-win-finishes-doubleheader-sweep-on-sunday",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/tup1lsgm00grclz1mbct",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:31.819463"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
+2024-11-14 22:40:34,471 - ErrorHandler - ERROR - {
+  "timestamp": "2024-11-14T22:40:34.470982",
+  "error_type": "DatabaseSaveError",
+  "message": "'last_updated' is an invalid keyword argument for Article",
+  "context": {
+    "article_data": {
+      "title": "RiverDogs Come Up Short in 4-3 Loss to Cannon Ballers",
+      "subheadline": "",
+      "date": "August 17, 2024",
+      "content": "RiverDogs Come Up Short in 4-3 Loss to Cannon Ballers\n                                 \n \n \n \n \n \n \n \n \n \n \n \n \n                                                August 17, 2024\n                                             \n \n \n \n \n \n \n \n Facebook Share \n \n \n \n \n \n X Share \n \n \n \n \n \n Email \n \n \n \n \n \n Copy Link \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n The Charleston RiverDogs allowed two unearned runs in the first inning which proved to be the difference in a 4-3 loss to the Kannapolis Cannon Ballers on Saturday night. The RiverDogs lead in the south division standings was trimmed to 2.5 games over Columbia.\n                        Both teams enjoyed hot starts offensively \n \n \n The Charleston RiverDogs allowed two unearned runs in the first inning which proved to be the difference in a 4-3 loss to the Kannapolis Cannon Ballers on Saturday night. The RiverDogs lead in the south division standings was trimmed to 2.5 games over Columbia. \n Both teams enjoyed hot starts offensively in the fifth game of the series. The RiverDogs (27-17, 54-55) wasted no time in grabbing the lead in the first inning. Adrian Santana drove a triple to dead center and immediately scored on Emilien Pitre\u2019s single through the right side. Connor Hujsak doubled to left center in the next at-bat and the lead doubled to 2-0. \n In the bottom of the first, Kannapolis (19-27, 60-52) answered right back. Sam Antonacci opened the inning with a double to center. With one out, Pitre fielded a groundball from Alex Makarewicz and threw wildly to first, allowing a run to score and the tying run to move to second. A groundball advanced the runner to third before Drake Logan tied the game with a sharp single through the right side. \n Charleston went without a hit from the first inning until the sixth, taking advantage when they finally did break through. Pitre pulled a base hit through the right side with one out in the frame and moved to second on a wild pitch. Hujsak came through once more, lining an RBI single down the left field line to make it 3-2 in favor of the road team. \n The lead was relatively short-lived as has been the case throughout the series. Cade Halemanu walked the first two batters in the bottom of the seventh and paid for it when Alex Makarewicz doubled home both a deep fly ball to center that gave the Cannon Ballers a 4-3 lead. Alexander Alberto came on and retired the next three hitters to limit the damage. \n Halemanu took the loss after allowing two runs on three hits in one inning plus three batters. Santiago Suarez allowed only two unearned runs in 5.0 strong innings as the RiverDogs starting pitcher. Alberto worked 2.0 perfect innings with three strikeouts over the final 2.0 frames. \n Kannapolis outhit the RiverDogs by an 11-5 margin. Makarewicz, Jeral Perez and Lyle Miller-Green each finished with two. Pitre and Hujsak were responsible for two hits each, combining for all three Charleston RBI. \n The series concludes on Sunday afternoon with a doubleheader that begins at 1:30 p.m. LHP Jeremy Pilon will make his RiverDogs debut in the first game, while RHP Gerlin Rosario (1-1, 2.41) will start in the nightcap. Kannapolis will hand the ball to RHP Tanner McDougal (0-2, 3.86) in the first game. They have not yet announced a starter for the second game.",
+      "url": "https://www.milb.com/charleston/news/riverdogs-come-up-short-in-4-3-loss-to-cannon-ballers",
+      "images": [
+        {
+          "url": "https://www.mlbstatic.com/team-logos/233.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://images.ctfassets.net/iiozhi00a8lc/t233_masthead_sponsor_imageCharleston_svg/1850b811f24653ef9c9407a23d273f4a/t233_masthead_sponsor_image",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/139.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://img.mlbstatic.com/milb-images/image/upload/t_16x9/t_w2208/milb/gkrd6g19cc2d1c5zztsu",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        },
+        {
+          "url": "https://www.mlbstatic.com/team-logos/league-on-dark/milb-alt.svg",
+          "width": "",
+          "aspect_ratio": "",
+          "type": "main"
+        }
+      ],
+      "section": "news",
+      "tags": {
+        "topics": [],
+        "teams": [
+          "Charleston RiverDogs"
+        ],
+        "players": [],
+        "contributors": [],
+        "leagues": [
+          "Carolina League"
+        ]
+      },
+      "social_shares": {
+        "facebook": "",
+        "twitter": ""
+      },
+      "author": {},
+      "last_updated": "2024-11-14T22:40:33.410665"
+    }
+  },
+  "solution": {
+    "error_type": "Unknown Error",
+    "solution": "Search error message on Stack Overflow or GitHub issues.",
+    "code_example": null
+  }
+}
